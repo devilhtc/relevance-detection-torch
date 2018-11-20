@@ -1,5 +1,5 @@
 import collections
-import np
+import numpy as np
 
 
 """
